@@ -3,3 +3,6 @@ controller/__pycache__/
 model/__pycache__/
 view/__pycache__/
 interfaceEnv/
+controller/.DS_Store
+model/.DS_Store
+view/.DS_Store
